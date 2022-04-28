@@ -44,10 +44,3 @@ while True:
         break
 
 cap.release()
-
-
-
-
-# TurretX = input('X: ')
-# TurretY = input('Y: ')
-
