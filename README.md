@@ -1,2 +1,2 @@
 # opencv
-learning opencv and anything else computer vision related
+learning by messing around with opencv and other cv related things :)
